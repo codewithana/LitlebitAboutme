@@ -1,8 +1,8 @@
 # LitlebitAboutme
 <h1 align="center">Hi 👋, I'm BANDANA KUMARI NAYAK</h1>
 <h3 align="center">WEB ENTHUSIAST🙌</h3>
-- I’m currently working on **PROBLEM SOLVING**
-- 📫 How to reach me **anakumari23exam@gmail.com**
+- I’m currently working on PROBLEM SOLVING(HACKERRANK) </br>
+- 📫 How to reach me anakumari23exam@gmail.com</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bandana kumari nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bandana kumari nayak" height="30" width="40" /></a>
